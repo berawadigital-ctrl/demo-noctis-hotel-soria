@@ -1,0 +1,12 @@
+HEAD f79d6eb11f29e683c5102640c6d1661542c2717d
+OK    check_kb (citas + regla de precios P1-P6) sobre berawa/knowledge.json
+OK    tests_noctis_hotel_soria: 4 idiomas + chatbot contra la base (HTTP)
+OK    a11y_test: axe-core + teclado (HTTP)
+OK    contrast_manual: contraste de nodos «incompletos» de axe
+OK    keys_test: claves del chat sin ambiguedad
+OK    sec_scan: revision estatica + CSP efectiva
+OK    tests_noctis_hotel_soria por file://
+OK    a11y_test por file://
+
+8/8 comprobaciones OK · resultados en /tmp/clon-noctis-hotel-soria/out
+run_checks exit 0

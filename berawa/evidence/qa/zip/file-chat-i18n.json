@@ -1,0 +1,375 @@
+{
+ "url": "file:///tmp/zip-noctis-hotel-soria/index.html",
+ "langs": {
+  "es": {
+   "textos_iguales_al_es": [],
+   "chat": [
+    {
+     "q": "¿Qué alojamientos tenéis?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Hay suites independientes (Suites en la Roca y Suites nido), burbujas premium (con piscina infinity y en el bosque) y La Villa, una casa res"
+    },
+    {
+     "q": "¿Cómo son las burbujas?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Las burbujas tienen vistas al cielo y a la naturaleza. La Burbuja con piscina infinity mira a los campos de la Sierra de San Marcos; la Burb"
+    },
+    {
+     "q": "¿Tenéis suites?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Las Suites en la Roca tienen jardín y piscina climatizada privados; las Suites nido están elevadas entre los árboles, con terraza, bañera in"
+    },
+    {
+     "q": "¿Hay piscina?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Sí: las Suites en la Roca tienen piscina climatizada privada y la Burbuja con piscina infinity tiene su propia piscina con vistas a la Sierr"
+    },
+    {
+     "q": "¿A qué hora es el check-in?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "En las burbujas, durante los meses de verano el check-in se realiza a partir de las 16:00 h, para garantizar una temperatura óptima. Para ot"
+    },
+    {
+     "q": "¿Qué es La Villa?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "La Villa es una casa restaurada en plena naturaleza, con cinco habitaciones, comedor y salón con grandes ventanales, y vistas al jardín y a "
+    },
+    {
+     "q": "¿Hay restaurante?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Sí, su cocina está pensada únicamente para sus huéspedes: el Espacio Jaima al aire libre, para almuerzos largos o cenas bajo las estrellas, "
+    },
+    {
+     "q": "¿Hacéis eventos?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Sí, Noctis tiene un apartado de eventos en su web. Para detalles, escríbeles a info@noctishotel.es o llama al +34 618 79 45 04."
+    },
+    {
+     "q": "¿Dónde estáis?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Está en el Paraje de San Marcos nº 13, 42005 Soria, a escasos 3 km del centro de Soria, en un entorno natural."
+    },
+    {
+     "q": "¿Cómo reservo?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Puedes ver disponibilidad y reservar en su motor de reservas (botón Reservar), llamar al +34 618 79 45 04 (información de reservas de lunes "
+    },
+    {
+     "q": "¿Podéis confirmarme disponibilidad para mañana?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Puedes ver disponibilidad y reservar en su motor de reservas (botón Reservar), llamar al +34 618 79 45 04 (información de reservas de lunes "
+    },
+    {
+     "q": "¿Cuánto cuesta la noche?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 618 79 45 04 · info@noctishotel.es."
+    },
+    {
+     "q": "¿Tenéis campo de golf?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 618 79 45 04 · info@noctishotel.es."
+    }
+   ],
+   "chips": [
+    "¿Qué alojamientos tenéis?",
+    "¿Hay piscina?",
+    "¿A qué hora es el check-in?",
+    "¿Cómo reservo?"
+   ]
+  },
+  "en": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k",
+    "stat1"
+   ],
+   "chat": [
+    {
+     "q": "What accommodation do you have?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "There are independent suites (Rock Suites and Nest Suites), premium bubbles (with infinity pool and in the forest) and La Villa, a restored "
+    },
+    {
+     "q": "What are the bubbles like?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "The bubbles have views of the sky and nature. The Bubble with infinity pool overlooks the fields of the Sierra de San Marcos; the Forest Bub"
+    },
+    {
+     "q": "Do you have suites?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "The Rock Suites have a private garden and heated pool; the Nest Suites are raised among the trees, with terrace, indoor or outdoor bathtub a"
+    },
+    {
+     "q": "Is there a pool?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Yes: the Rock Suites have a private heated pool and the Bubble with infinity pool has its own pool overlooking the Sierra de San Marcos."
+    },
+    {
+     "q": "What time is check-in?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "In the bubbles, during the summer months check-in is from 16:00, to ensure an optimal temperature. For other times, please ask the hotel."
+    },
+    {
+     "q": "What is La Villa?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "La Villa is a restored house in the middle of nature, with five bedrooms, a dining room and living room with large windows, and views of the"
+    },
+    {
+     "q": "Is there a restaurant?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Yes, their kitchen is designed only for their guests: the open-air Jaima Space, for long lunches or dinners under the stars, and La Cabaña, "
+    },
+    {
+     "q": "Do you host events?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Yes, Noctis has an events section on its website. For details, email info@noctishotel.es or call +34 618 79 45 04."
+    },
+    {
+     "q": "Where are you?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "It is at Paraje de San Marcos nº 13, 42005 Soria, just 3 km from the centre of Soria, in a natural setting."
+    },
+    {
+     "q": "How do I book?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "You can check availability and book on their booking engine (Book button), call +34 618 79 45 04 (booking information Monday to Sunday from "
+    },
+    {
+     "q": "Can you confirm availability for tomorrow?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "You can check availability and book on their booking engine (Book button), call +34 618 79 45 04 (booking information Monday to Sunday from "
+    },
+    {
+     "q": "How much is a night?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 618 79 45 04 · info@noctishotel.es."
+    },
+    {
+     "q": "Do you have a golf course?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 618 79 45 04 · info@noctishotel.es."
+    }
+   ],
+   "chips": [
+    "What accommodation do you have?",
+    "Is there a pool?",
+    "What time is check-in?",
+    "How do I book?"
+   ]
+  },
+  "fr": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k",
+    "stat1"
+   ],
+   "chat": [
+    {
+     "q": "Quels hébergements avez-vous ?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Il y a des suites indépendantes (Suites dans la roche et Suites nid), des bulles premium (avec piscine à débordement et en forêt) et La Vill"
+    },
+    {
+     "q": "Comment sont les bulles ?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Les bulles ont vue sur le ciel et la nature. La Bulle avec piscine à débordement donne sur les champs de la Sierra de San Marcos ; la Bulle "
+    },
+    {
+     "q": "Avez-vous des suites ?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Les Suites dans la roche ont jardin et piscine chauffée privés ; les Suites nid sont perchées dans les arbres, avec terrasse, baignoire inté"
+    },
+    {
+     "q": "Y a-t-il une piscine ?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Oui : les Suites dans la roche ont une piscine chauffée privée et la Bulle avec piscine à débordement a sa propre piscine avec vue sur la Si"
+    },
+    {
+     "q": "À quelle heure est l’arrivée ?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Dans les bulles, pendant les mois d’été, l’arrivée se fait à partir de 16h00, pour garantir une température optimale. Pour d’autres horaires"
+    },
+    {
+     "q": "Qu’est-ce que La Villa ?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "La Villa est une maison restaurée en pleine nature, avec cinq chambres, salle à manger et salon aux grandes baies vitrées, et vue sur le jar"
+    },
+    {
+     "q": "Y a-t-il un restaurant ?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Oui, leur cuisine est pensée uniquement pour leurs hôtes : l’Espace Jaima en plein air, pour de longs déjeuners ou des dîners sous les étoil"
+    },
+    {
+     "q": "Organisez-vous des événements ?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Oui, Noctis a une rubrique événements sur son site. Pour plus de détails, écrivez à info@noctishotel.es ou appelez le +34 618 79 45 04."
+    },
+    {
+     "q": "Où êtes-vous ?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Il se trouve Paraje de San Marcos nº 13, 42005 Soria, à seulement 3 km du centre de Soria, dans un cadre naturel."
+    },
+    {
+     "q": "Comment réserver ?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Vous pouvez vérifier la disponibilité et réserver sur leur moteur de réservation (bouton Réserver), appeler le +34 618 79 45 04 (information"
+    },
+    {
+     "q": "Pouvez-vous me confirmer la disponibilité pour demain ?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Vous pouvez vérifier la disponibilité et réserver sur leur moteur de réservation (bouton Réserver), appeler le +34 618 79 45 04 (information"
+    },
+    {
+     "q": "Combien coûte la nuit ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 618 79 45 04 · info@noctishotel.es."
+    },
+    {
+     "q": "Avez-vous un terrain de golf ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 618 79 45 04 · info@noctishotel.es."
+    }
+   ],
+   "chips": [
+    "Quels hébergements avez-vous ?",
+    "Y a-t-il une piscine ?",
+    "À quelle heure est l’arrivée ?",
+    "Comment réserver ?"
+   ]
+  },
+  "de": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k",
+    "stat1"
+   ],
+   "chat": [
+    {
+     "q": "Welche Unterkünfte gibt es?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Es gibt unabhängige Suiten (Felsensuiten und Nestsuiten), Premium-Bubbles (mit Infinity-Pool und im Wald) und La Villa, ein restauriertes Ha"
+    },
+    {
+     "q": "Wie sind die Bubbles?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Die Bubbles bieten Blick in den Himmel und die Natur. Die Bubble mit Infinity-Pool blickt auf die Felder der Sierra de San Marcos; die Wald-"
+    },
+    {
+     "q": "Haben Sie Suiten?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Die Felsensuiten haben privaten Garten und beheizten Pool; die Nestsuiten liegen erhöht zwischen den Bäumen, mit Terrasse, Innen- oder Außen"
+    },
+    {
+     "q": "Gibt es einen Pool?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Ja: Die Felsensuiten haben einen privaten beheizten Pool, und die Bubble mit Infinity-Pool hat einen eigenen Pool mit Blick auf die Sierra d"
+    },
+    {
+     "q": "Ab wann ist der Check-in?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "In den Bubbles ist der Check-in in den Sommermonaten ab 16:00 Uhr, um eine optimale Temperatur zu gewährleisten. Für andere Zeiten fragen Si"
+    },
+    {
+     "q": "Was ist La Villa?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "La Villa ist ein restauriertes Haus mitten in der Natur, mit fünf Schlafzimmern, Ess- und Wohnzimmer mit großen Fenstern und Blick auf den G"
+    },
+    {
+     "q": "Gibt es ein Restaurant?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Ja, die Küche ist ausschließlich für die Gäste gedacht: der Jaima-Bereich im Freien für lange Mittagessen oder Abendessen unter den Sternen "
+    },
+    {
+     "q": "Veranstalten Sie Events?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Ja, Noctis hat einen Bereich für Veranstaltungen auf seiner Website. Für Details schreiben Sie an info@noctishotel.es oder rufen Sie +34 618"
+    },
+    {
+     "q": "Wo liegt die Unterkunft?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Es liegt im Paraje de San Marcos nº 13, 42005 Soria, nur 3 km vom Zentrum Sorias, in natürlicher Umgebung."
+    },
+    {
+     "q": "Wie kann ich buchen?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Sie können über die Buchungsmaschine (Schaltfläche Buchen) die Verfügbarkeit prüfen und buchen, +34 618 79 45 04 anrufen (Buchungsinformatio"
+    },
+    {
+     "q": "Können Sie mir die Verfügbarkeit für morgen bestätigen?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Sie können über die Buchungsmaschine (Schaltfläche Buchen) die Verfügbarkeit prüfen und buchen, +34 618 79 45 04 anrufen (Buchungsinformatio"
+    },
+    {
+     "q": "Was kostet eine Nacht?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Diese Information liegt mir nicht vor. Schreiben oder rufen Sie uns an: +34 618 79 45 04 · info@noctishotel.es."
+    },
+    {
+     "q": "Haben Sie einen Golfplatz?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Diese Information liegt mir nicht vor. Schreiben oder rufen Sie uns an: +34 618 79 45 04 · info@noctishotel.es."
+    }
+   ],
+   "chips": [
+    "Welche Unterkünfte gibt es?",
+    "Gibt es einen Pool?",
+    "Ab wann ist der Check-in?",
+    "Wie kann ich buchen?"
+   ]
+  }
+ },
+ "fail": [],
+ "ok": true
+}
