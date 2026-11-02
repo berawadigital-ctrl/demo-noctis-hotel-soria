@@ -1,0 +1,31 @@
+{
+ "schema": "berawa-captacion/1",
+ "negocio": "noctis-hotel-soria",
+ "maps": {
+  "fecha": "2026-10-29T14:34:55+01:00",
+  "estado": "LEIDA",
+  "ficha": "Noctis Hotel",
+  "nota": 4.8,
+  "coincide": {
+   "tel": true,
+   "web": true,
+   "dir": false
+  },
+  "url": "https://www.google.com/maps/place/Noctis+Hotel/@41.7341822,-2.4966889,17z/data=!4m9!3m8!1s0xd44cd0cfbe9f497:0xe64fb0f2853ac0d5!5m2!4m1!1i2!8m2!3d41.7341822!4d-2.4966889!16s%2Fg%2F11v6xtncts",
+  "herramienta": "factory/webfactory/maps_rating.py"
+ },
+ "web_filtro": {
+  "fecha": "2026-10-29T14:34:55+01:00",
+  "veredicto": "DUDOSA",
+  "informe_velocidad": "LCP > 4 s",
+  "herramienta": "filtro_mala_web.py (Lighthouse movil, mediana de 3 pasadas)"
+ },
+ "titular": {
+  "razon_social": "FINCA SAN MARCOS EVENTOS S.L.",
+  "cif": "B88415484",
+  "fuente": "aviso legal de https://noctishotel.es/aviso-legal/",
+  "persona_juridica": true,
+  "cadena": false,
+  "nota": "un solo establecimiento (la web solo presenta Noctis Hotel)"
+ }
+}
