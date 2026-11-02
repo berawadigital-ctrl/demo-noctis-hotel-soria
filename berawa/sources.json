@@ -1,0 +1,46 @@
+{
+ "schema": "berawa-sources/1",
+ "site": "https://noctishotel.es/",
+ "read_at": "2026-11-02T07:16:00+01:00",
+ "method": "Texto visible de cada pagina leido de la web publica del negocio en la fecha indicada (fetch_sources.py) y guardado en berawa/evidence/source-text.json; las citas del chatbot se comprueban contra ese texto con check_kb.py.",
+ "pages": [
+  {
+   "url": "https://noctishotel.es/",
+   "sha256": "42c0210eb4795cfad8f297a2c0c6a7a4b0004527e02d257b5635cbcf7de07fbd",
+   "chars": 5675
+  },
+  {
+   "url": "https://noctishotel.es/burbujas-premium/",
+   "sha256": "55a7b2fad84bcbf31d344cb47f0015794a4bd990f04338e3c9c854f936a57e78",
+   "chars": 4854
+  },
+  {
+   "url": "https://noctishotel.es/contacto-noctis-hotel/",
+   "sha256": "c363fa77a76f83715212d95041cd993c8b256251bbd6affe1e16ed312a9d5b10",
+   "chars": 4411
+  },
+  {
+   "url": "https://noctishotel.es/la-villa/",
+   "sha256": "8a7dddcad55c757fe5b400850cceaf8ef3475662a8ed96c1341e27e80b5ccae9",
+   "chars": 3971
+  },
+  {
+   "url": "https://noctishotel.es/sabor/",
+   "sha256": "e73302c81da8a6c39ca74be6e9ba5712cac331c2ce54a639fc9ddddb878f833f",
+   "chars": 5832
+  },
+  {
+   "url": "https://noctishotel.es/suites-de-lujo-noctis/",
+   "sha256": "6564269fbde952df4fd9f40e1bd376b7852728a0006ff8c0ff290e2cb2237daf",
+   "chars": 4141
+  }
+ ],
+ "other_pages_read": [
+  "https://noctishotel.es",
+  "https://noctishotel.es/aviso-legal/",
+  "https://noctishotel.es/eventos/",
+  "https://noctishotel.es/galeria-noctis-hotel/",
+  "https://noctishotel.es/politica-de-privacidad/",
+  "https://noctishotel.es/regala-noctis/"
+ ]
+}
